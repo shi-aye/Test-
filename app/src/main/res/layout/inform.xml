@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#9C9A9A">
+
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+
+        android:ems="10"
+        android:fontFamily="serif"
+        android:inputType="text"
+        android:text="The app to calculate The Temperature and "
+        android:textColor="#070607"
+        android:textSize="17sp"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="198dp"
+        tools:ignore="DuplicateIds" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+
+        android:ems="10"
+        android:fontFamily="serif"
+        android:inputType="text"
+        android:text="convert it form cellulose to Fahrenheit and "
+        android:textColor="#070607"
+        android:textSize="17sp"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="198dp"
+        tools:ignore="DuplicateIds" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+
+        android:ems="10"
+        android:fontFamily="serif"
+        android:inputType="text"
+        android:text="vice versa,to shortin the time "
+        android:textColor="#070607"
+        android:textSize="17sp"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="198dp"
+        tools:ignore="DuplicateIds" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Team names:"
+        android:textColor="#9A5286"
+        android:fontFamily="monospace"
+        android:layout_marginVertical="30dp"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="275dp" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="1-Renad Abdulaziz Bin Ammar. "
+        android:textColor="#9A5286"
+        android:fontFamily="monospace"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="275dp"
+        tools:ignore="DuplicateIds" />
+
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="2-Mashael Alquraini."
+        android:textColor="#9A5286"
+        android:fontFamily="monospace"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="275dp"
+        tools:ignore="DuplicateIds" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="3-Shihanah Ayed Alqahtani."
+        android:textColor="#9A5286"
+        android:fontFamily="monospace"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="275dp"
+        tools:ignore="DuplicateIds" />
+
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="editTextTemperature">Enter temperature </string>
+    <string name="buttonConvert">Convert</string>
+    <string name="textViewResult"></string>
+    <string name="buttonCall">call Us</string>
+    <string name="buttonAbout">About</string>
+    <string name="buttonExit">Exit</string>
+    <string name="radioGroupUnits"></string>
+    <string name="radioButtonCelsius">Celsius</string>
+    <string name="radioButtonFahrenheit">Fahrenheit</string>
+
+
+</resources>
